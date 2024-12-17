@@ -19,7 +19,7 @@ The skills from this project that I find will be particularly transferable to fu
 I always try to keep my code neat, organized, and devoid of any uneccessary or obsolete lines of code to help maintain readability. The code used for this project could be adjusted easily to alter the output, which allows for maintainability as well. 
 
 # CS-350 3-2 Milestone (UART LED Control)
-* I was unable to upload the video file for this milestone as it is too big *
+* I was unable to upload the video file for this milestone as it is too big
 
 ## Summarize the project and what problem it was solving.
 Milestone 3-2, which is the use creating characters to read from the UART, was simply creating a program to control the red LEDs. The objective was to have the LED turn on, when a user types "ON" into the terminal and to turn off when the user types "OFF" into the terminal. 
